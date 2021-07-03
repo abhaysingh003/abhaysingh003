@@ -8,9 +8,9 @@
 
 <div align="center"> 
   
-<a href="https://github.com/SINGH-ABS"><img src="https://img.shields.io/badge/GitHub-0077B5?style=flat&logo=github&logoColor=white"></a>
+<a href="https://github.com/SINGH-UMS"><img src="https://img.shields.io/badge/GitHub-0077B5?style=flat&logo=github&logoColor=white"></a>
   
-<img src="https://komarev.com/ghpvc/?username=SINGH-ABS&label=Profile%20Views&color=0e75b6&style=flat" alt="SINGH-ABS" /> 
+<a href="https://github.com/SINGH-UMS"><img src="https://komarev.com/ghpvc/?username=SINGH-ABS&label=Profile%20Views&color=0e75b6&style=flat" alt="SINGH-ABS" /></a> 
 </div>
 
 -------
