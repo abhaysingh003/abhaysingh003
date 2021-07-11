@@ -1,4 +1,5 @@
-# 👋 Hi, Welcome to The Codeist
+# 👋 Hi, I am Umesh Singh
+## :man_technologist: Welcome to my GitHub Profile
 - 👀 I’m interested in Application Development and Artificial Intelligence (AI).
 - 🌱 I’m currently learning Python, Git and GitHub.
 - 💞️ I’m looking to collaborate on Open Source Projects.
