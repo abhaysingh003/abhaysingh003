@@ -9,16 +9,16 @@
 
 <div align="center"> 
   
-<a href="https://github.com/SINGH-UMS"><img src="https://img.shields.io/badge/GitHub-0077B5?style=flat&logo=github&logoColor=white"></a>
+<a href="https://github.com/abhaysingh003"><img src="https://img.shields.io/badge/GitHub-0077B5?style=flat&logo=github&logoColor=white"></a>
   
-<a href="https://github.com/SINGH-UMS"><img src="https://komarev.com/ghpvc/?username=SINGH-ABS&label=Profile%20Views&color=0e75b6&style=flat" alt="SINGH-ABS" /></a> 
+<a href="https://github.com/abhaysingh003"><img src="https://komarev.com/ghpvc/?username=SINGH-ABS&label=Profile%20Views&color=0e75b6&style=flat" alt="abhaysingh003" /></a> 
 </div>
 
 -------
 
 ## GitHub Stats
 
-[![SINGH-UMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SINGH-UMS&show_icons=true&theme=tokyonight)](https://github.com/SINGH-UMS)
+[![Umesh Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysingh003&show_icons=true&theme=tokyonight)](https://github.com/abhaysingh003)
 
 
 <!---
