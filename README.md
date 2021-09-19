@@ -3,7 +3,7 @@
 - 👀 I’m interested in Application Development and Artificial Intelligence (AI).
 - 🌱 I’m currently learning Python, Git and GitHub.
 - 💞️ I’m looking to collaborate on Open Source Projects.
-- 📫 Reach me through GitHub or Email.
+- 📫 Reach me through GitHub / Email / Twitter.
 
 -------
 
