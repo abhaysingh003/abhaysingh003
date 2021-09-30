@@ -16,10 +16,12 @@
 
 -------
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 [![Umesh Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaysingh003&show_icons=true&theme=tokyonight)](https://github.com/abhaysingh003)
 
+## 📈 GitHub Graph 
+<img src="https://activity-graph.herokuapp.com/graph?username=abhaysingh003&theme=xcode">
 
 <!---
 SINGH-UMS/SINGH-UMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
